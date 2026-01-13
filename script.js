@@ -62,7 +62,7 @@ add.addEventListener('click', () => {
   name.value = ''
   select.value = ''
   reyting.value = ''
-  janr.selectedIndex = 0
+
 })
 
 let mode = document.querySelector('.mode')
